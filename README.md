@@ -1,4 +1,4 @@
-# Project-Data-Analysis-for-Retail-Sales-Performance-Report by DWLab
+# Project-Data-Analysis-for-Retail-Sales-Performance-Report by DQLab
 
 Melakukan analisis terhadap performance dari DQLab Store dengan menggunakan MySQL
 
